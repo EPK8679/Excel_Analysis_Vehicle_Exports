@@ -1,1 +1,3 @@
 # Excel_Analysis_Vehicle_Exports
+
+The study examines the export of various automobile manufacturers from various nations over the last 21 years. Many manufacturers have established their businesses and have high demand in certain countries because certain types of vehicles are exported in higher demand because more people use those types of vehicles, whereas in other countries certain types of vehicles are not allowed or are in lower demand, resulting in fewer vehicles being exported because the manufacturers cost of making is high and there is less profits due to less buyers. As a result, manufacturers export the types of vehicles that are in demand in the other country.
